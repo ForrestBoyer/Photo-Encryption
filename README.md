@@ -12,4 +12,4 @@ To get the orginal image back you would use the command with the same password o
 
 The outputdecrypted.jpg file should then be the original cat once again
 
-All of these example files are in the example folder
+Example photos are in the examples folder
